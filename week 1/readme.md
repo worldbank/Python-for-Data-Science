@@ -2,7 +2,7 @@
 # Python for Data Science
 # Week 1 - Intro to Python
 ### Overview
-Today we'll introduce the basics of Python. We will start with declaring variables and handling different data types, then conclude with a short intro to loops and conditionals.
+Today we'll introduce the basics of Python. We will start with declaring variables and handling different data types, then conclude with an intro to loops and conditionals.
 
 ### In class: code demo.
 Open the demo notebook in Colab: [click here](https://colab.research.google.com/worldbank/Python-for-Data-Science/blob/master/week%201/week%201%20-%20lab.ipynb)
