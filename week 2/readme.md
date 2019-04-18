@@ -7,6 +7,8 @@ Today we'll delve further into data structures and learn how to work with files.
 ### In class: code demo.
 Open the demo notebook in Colab: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%202/Week%202%20-%20Further%20data%20structures%20and%20file%20handling.ipynb)
 
+Bonus: a quiz and run-through of last week's solutions [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/master/week%202/quiz_and_solutions.ipynb)
+
 ### In class: Lab.
 Open the lab notebook in Colab:  [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%202/Week%202%20-%20Lab.ipynb)
 
