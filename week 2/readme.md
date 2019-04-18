@@ -1,6 +1,6 @@
 
 # Python for Data Science
-# Week 2 - Further data structures, control flow and file handling
+# Week 2 - Further data structures, libraries and file handling
 ### Overview
 Today we'll delve further into data structures and learn how to work with files. We will cover dictionaries, tuples, and more advanced use of lists. We'll learn how to import other people's code and work with libraries like Numpy.
 
