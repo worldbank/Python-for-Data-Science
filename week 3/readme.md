@@ -4,11 +4,12 @@
 ### Overview
 We'll use functions to write reusable code blocks, and introduce the Python data analysis library: Pandas.
 
-### Part 1: Functions.
-Open the demo notebook in Colab: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%203/Week%203%20-%20Functions%20demo.ipynb)
+### In class:
+1. Open the [Functions demo notebook](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%203/Week%203%20Demo%20-%20Functions.ipynb) in Colab.
+2. Open the [Pandas demo notebook](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%203/Week%203%20Demo%20-%20Pandas.ipynb) in Colab.
 
-### Part 2: Pandas.
-Open the lab notebook in Colab:  [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%203/Week%203%20-%20Pandas.ipynb)
+### Lab.
+* Open the [lab notebook](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%203/Week%203%20-%20Lab.ipynb) in Colab.
 
-### Resources
-Work through more sections of [LearnPython.org](http://learnpython.org/) or your choice of other online resource. Keep working on these fundamentals via Learn Python The Hard Way, an O'Reilly Media tutorial book, or whichever online Python introduction you like most.
+### Resources: 
+Follow this great [10 minutes to Python tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html).
