@@ -12,4 +12,4 @@ We'll use functions to write reusable code blocks, and introduce the Python data
 * Open the [lab notebook](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%203/Week%203%20-%20Lab.ipynb) in Colab.
 
 ### Resources: 
-Follow this great [10 minutes to Python tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html).
+Follow this great [10 minutes to Pandas tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html).
