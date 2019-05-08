@@ -18,9 +18,9 @@ Now that you're in your virtual environment, install packages using conda instal
 
 `conda install seaborn`
 
-Hint 1: you can append -y to your statement to automatically proceed without being prompted to tap 'y' for yes.
+Hint 1: we recommend using conda install first, as it automatically installs other low-level libraries that your new library requires. If it doesn't work, try pip install first. Some libraries use custom conda channels (eg. conda-forge) in which case their documentation will indicate a slightly different installation command (eg. conda install -c conda-forge osmnx).
 
-Hint 2: for some packages, you may need to use a different Conda statement, eg. if installing for a different Conda channel. Search for package-specific help if needed or consult this Conda Cheatsheet.
+Hint 2: you can append -y to your statement to automatically proceed without being prompted to tap 'y' for yes.
 
 ### Step 5: Install ipykernel
 For your environment to work on Jupyter notebooks, you need to install ipykernel as follows:
@@ -29,7 +29,7 @@ For your environment to work on Jupyter notebooks, you need to install ipykernel
 
 ### Step 6: Create the kernel
 Now create the kernel for your environment by running:
-`python -m ipykernel install --user --name MyEnv --display-name MyEnd`
+`python -m ipykernel install --user --name MyEnv --display-name MyEnv`
 
 ### Step 7: Open a notebook with the kernel
 Navigate back to the Home tab on Jupyter Notebooks in your browser. Make sure to refresh the page. Now click the New button and select the name of your kernel, which is MyEnv in this example.
