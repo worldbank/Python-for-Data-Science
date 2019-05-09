@@ -8,7 +8,7 @@ On Windows, choose  Anaconda Prompt or Command Prompt from the start menu. On Ma
 ### Step 2: Create virtual environment
 In the terminal, enter the command below to create a new virtual environment. In this example, MyEnv is the name used for the environment, replace this with your chosen name.
 
-`conda create - n MyEnv python = 3.7`
+`conda create -n MyEnv python=3.7`
 
 Press 'y' and return when asked to proceed. All packages will be downloaded and installed.
 
