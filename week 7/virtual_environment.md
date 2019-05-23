@@ -1,6 +1,6 @@
 # Creating a virtual environment for this week's class
 
-**Requirements for this week:** We'll use `requests` (for APIs), and `OSMNX` and `Geopandas` (for geospatial). We'll also call on pandas, numpy, Seaborn, and briefly use mplleaflet. Create an environment with these libraries. Any difficulties, just create an environment with geopandas and requests.
+**Requirements for this week:** We'll use `requests` (for APIs), and `OSMNX` and `Geopandas` (for geospatial). We'll also call on pandas, numpy, Seaborn, and mplleaflet. Create an environment with these libraries. Any difficulties, create an environment with just geopandas and requests.
 
 **Suggested installation commands (adjust if necessary):**
 
