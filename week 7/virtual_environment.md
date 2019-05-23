@@ -8,7 +8,7 @@
 * conda activate APIs_geospatial
 * conda install -c conda-forge osmnx -y
 * conda install seaborn -y
-* conda install mplleaflet -y
+* pip install mplleaflet
 * conda install ipykernel -y
 * python -m ipykernel install --user --name APIs_geospatial --display-name APIs_geospatial 
 
