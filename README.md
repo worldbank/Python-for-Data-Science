@@ -24,6 +24,6 @@ The course meets on Thursdays at 3.30pm - 5.00pm.
 |April 25 | MC 7-860 | Intermediate Python, intro to Pandas and Numpy.|
 |May 2 | MC 7-860 | Data wrangling and analysis.|
 |May 9 | MC C1-200 | Data wrangling and analysis II.|
-|May 16 | MC C1-100 | APIs and geospatial data.|
-|May 23 | MC C1-100 | Intro to machine learning.|
-|May 30 | MC C1-200 | Flexible teaching session.|
+|May 16 | MC C1-100 | Geospatial data.|
+|May 23 | MC C1-100 | APIs and further geospatial.|
+|May 30 | MC C1-200 | Machine learning in Python.|
