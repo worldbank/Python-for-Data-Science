@@ -5,4 +5,4 @@ We'll implement the key steps in a supervised learning workflow using SciKitLear
 
 ### In class:
 * Open the week 8 notebook on your laptop (ensure you have the data files as well).
-* Open the [notebook](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/master/week%208/week_8_demo.ipynb) on Colab.
+* or: open the [notebook](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%208/week_8_demo.ipynb) on Colab.
