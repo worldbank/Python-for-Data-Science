@@ -1,3 +1,19 @@
+# Python_for_Data_Science: Poverty GP July 2019 course
+
+# Overview
+This course is for World Bank Povery Global Practice staff who need data science methods for their analytical or operational work. The instructors are Nick Jones (GFDRR Labs) and Dharana Rijal (DEC)-- joined by Charles Fox (formerly with WBG-GOST), Tracey Li (Flowminder), and Patrick van Kessel (Pew Research Center) for parts of the training.
+
+__Objectives__: (i) expand the cohort of Bank staff with intermediate-level Python skills; (ii) contribute to quality of WB operations and analysis through increased uptake of data science methods; and (iii) expand the internal user base for World Bank APIs and code libraries.
+
+__Prerequisites and format__: No prior coding experience is needed. The sessions will comprise of a combination of short lecture-style teaching by the instructors and 'lab' sessions where participants write code on their own laptops.
+
+__Participant outcomes__: With no coding knowledge before the course, participants should be able to access and combine a diverse set of datasets, conduct data exploration and visualization, utilize Python libraries for geospatial data and machine learning, and be able to self-teach next steps in their specialized domain.
+
+# Running the scripts
+Two methods:
+* _Beginner method:_ Click the links to 'open notebook in Colab.' (need to log in to Google account; no software installation required)
+* _Preferred method:_ Install Anaconda Navigator in the folder C:\WBG from the software catalogue on eServices. Download the scripts (or clone the repository with Git) and load the notebooks (.ipynb files) in Jupyter Notebooks on your laptop.
+
 **Tentative Schedule**
 
 |**Time**| **Topic** |
