@@ -17,4 +17,4 @@
 |2.00 pm–5.00pm | Machine learning with SciKitLearn. Lab session. |
 |**Day 4** |
 |9.00am–11.00am | Intro to Call Detail Records (CDR) |
-|11.00am–12.30pm | Intro to Text Analytics |
+|11.00am–12.30pm  | Intro to Text Analytics |
