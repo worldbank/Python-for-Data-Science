@@ -1,15 +1,15 @@
 **Tentative Schedule**
 
-|**Time**&nbsp; &nbsp;&nbsp; &nbsp;|**Topic**|
+|**Time**|**Topic**|
 |:-----|:------|
 |**Day 1**|
 |9.00am–12.30pm|Python basics: basic syntax, data structures, loops and conditionals. Lab session.|
 |12.30pm–2.00pm|Lunch break|
-|2.00pm–5.00pm|Python II: Further data structures, control flow, functions. Numerical data with Numpy and Pandas. Lab session.|
+|2.00pm–5.00pm|Python II: Further data structures, control flow, functions.   Numerical data with Numpy and Pandas. Lab session.|
 |**Day 2**|
 |9.00am–12.30pm|Data cleaning, analysis and visualization with Numpy and Pandas.|
 |12.30pm–2.00pm|Lunch break.|
-|2.00pm–5.00pm|Further Pandas (incl. time series, regression). Plotting with Seaborn. Lab session.|
+|2.00pm–5.00pm|Further Pandas (incl. time series, regression).   Plotting with Seaborn. Lab session.|
 |5.00pm–5.30pm|GitHub and virtual environments|
 |**Day 3**|
 |9.00am–12.30pm|Geospatial data, working with APIs.|
