@@ -1,12 +1,10 @@
 Tentative Schedule
 
 |Time|Topic|
-|----|----|
 |Day 1|
 |9.00am – 12.30 pm|Python basics: basic syntax, data structures, loops and conditionals. Lab session.|
 |12.30pm – 2.00pm|Lunch break|
-|2.00pm – 5.00pm|Python II: Further data structures, control flow, functions. 
-Numerical data with Numpy and Pandas. Lab session.|
+|2.00pm – 5.00pm|Python II: Further data structures, control flow, functions. Numerical data with Numpy and Pandas. Lab session.|
 |Day 2|
 |9.00am – 12.30pm|Data cleaning, analysis and visualization with Numpy and Pandas.|
 |12.30pm – 2.00pm|Lunch break.|
