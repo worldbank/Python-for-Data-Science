@@ -3,7 +3,7 @@
 |**Time**|**Topic**|
 |:---|:---|
 |**Day 1**|
-|9.00am – 12.30 pm|Python basics: basic syntax, data structures, loops and conditionals. Lab session.|
+|9.00am – 12.30pm|Python basics: basic syntax, data structures, loops and conditionals. Lab session.|
 |12.30pm – 2.00pm|Lunch break|
 |2.00pm – 5.00pm|Python II: Further data structures, control flow, functions. Numerical data with Numpy and Pandas. Lab session.|
 |**Day 2**|
