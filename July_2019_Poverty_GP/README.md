@@ -5,7 +5,7 @@
 |**Day 1**|
 |9.00am–12.30pm| Python basics: basic syntax, data structures, loops and conditionals. Lab session. |
 |12.30pm–2.00pm| Lunch break |
-|2.00pm– 5.00pm| Further data structures, control flow, functions. Numerical data w/ Numpy & Pandas. Lab.|
+|2.00pm– 5.00pm| Data structures II, control flow, functions. Numerical data w/ Numpy & Pandas. Lab.|
 |**Day 2**|
 |9.00am–12.30pm| Data cleaning, analysis and visualization with Numpy and Pandas. |
 |12.30pm–2.00pm| Lunch break. |
