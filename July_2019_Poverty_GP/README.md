@@ -5,7 +5,7 @@
 |**Day 1** |
 |9.00am–12.30pm | Python basics: basic syntax, data structures, loops and conditionals. Lab session. |
 |12.30pm–2.00pm | Lunch break |
-|2.00pm– 5.00pm | Further data structures, control flow, functions. Numerical data with Numpy & Pandas. Lab session. |
+|2.00pm– 5.00pm | Further data structures, control flow, functions. Numerical data with Numpy & Pandas.Lab session. |
 |**Day 2** |
 |9.00am–12.30pm | Data cleaning, analysis and visualization with Numpy and Pandas. |
 |12.30pm–2.00pm | Lunch break. |
@@ -17,4 +17,4 @@
 |2.00 pm–5.00pm | Machine learning with SciKitLearn. Lab session. |
 |**Day 4** |
 |9.00am–11.00am | Intro to Call Detail Records (CDR) |
-|11.00am–12.30pm  | Intro to Text Analytics |
+|11.00am–12.30pm | Intro to Text Analytics |
