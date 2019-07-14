@@ -7,14 +7,19 @@ Today we'll introduce Python starting from the basics. We will start with declar
 ### Lecture notebooks:
 
 0_notebooks_intro: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/0_notebooks_intro.ipynb)
+
 1_Python_essentials: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master//July_2019_Poverty_GP/day_1/1_python_intro.ipynb)
+
 2_data_structures: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/2_data_structures.ipynb)
+
 3_functions: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/3_functions.ipynb)
 
 ### Lab notebooks:
 
 Lab 1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/lab_1.ipynb)
+
 Lab 2: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/lab_2.ipynb)
+
 Lab 3: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/lab_3.ipynb)
 
 
