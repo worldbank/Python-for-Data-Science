@@ -2,17 +2,22 @@
 # Python for Data Science
 # Week 1 - Intro to Python
 ### Overview
-Today we'll introduce the basics of Python. We will start with declaring variables and handling different data types, then conclude with an intro to loops and conditionals.
+Today we'll introduce Python starting from the basics. We will start with declaring variables and handling text and numeric data, then go on to loops and conditionals. Sessions 2 and 3 will build up more sophisticated programs using logic, functions, and data containers like lists and dictionaries.
 
-### In class: code demo.
-Open the demo notebook in Colab: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%201/week_1%20-%20demo.ipynb)
+### Lecture notebooks:
 
-### In class: Lab.
-Open the lab notebook in Colab:  [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%201/week%201%20-%20lab.ipynb)
+0_notebooks_intro: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/0_notebooks_intro.ipynb)
+1_Python_essentials: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master//July_2019_Poverty_GP/day_1/1_python_intro.ipynb)
+2_data_structures: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/2_data_structures.ipynb)
+3_functions: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/3_functions.ipynb)
+
+### Lab notebooks:
+
+Lab 1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/lab_1.ipynb)
+Lab 2: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/lab_2.ipynb)
+Lab 3: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/lab_3.ipynb)
+
 
 ### Resources
-Please work through the [Learn The Basics](http://learnpython.org/) section on LearnPython.org before coming to class. Alternatively, pick one of the comparable learning resources (eg. Python 101 on CodeAcademy) that covers the same ground.
-
-Optional:
-* chapters 1-2 of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
+* early chapters of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 * short tutorial on [markdown](https://commonmark.org/help/).
