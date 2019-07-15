@@ -14,8 +14,6 @@ Today we'll introduce Python starting from the basics. We will start with declar
 
 3_functions: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/3_functions.ipynb)
 
-4_numpy: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/4_numpy.ipynb)
-
 ### Lab notebooks:
 
 Lab 1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/lab_1.ipynb)
