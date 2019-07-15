@@ -1,6 +1,6 @@
 
 # Python for Data Science
-# Week 1 - Intro to Python
+# Day 1 - Python fundamentals
 ### Overview
 Today we'll introduce Python starting from the basics. We will start with declaring variables and handling text and numeric data, then go on to loops and conditionals. Sessions 2 and 3 will build up more sophisticated programs using logic, functions, and data containers like lists and dictionaries.
 
