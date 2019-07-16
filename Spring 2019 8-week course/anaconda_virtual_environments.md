@@ -15,7 +15,7 @@ Press 'y' and return when asked to proceed. All packages will be downloaded and 
 ![img2](images/img2.png)
 
 ### Step 3: Activate virtual environment
-Run `source active MyEnv` to activate your virtual environment. Again, substitute your environment name for MyEnv. You should now see a prompt with the name of your environment in parentheses. On some computers, use `conda activate MyEnv` instead of `source activate MyEnv`.
+Run `source activate MyEnv` to activate your virtual environment. Again, substitute your environment name for MyEnv. You should now see a prompt with the name of your environment in parentheses. On some computers, use `conda activate MyEnv` instead of `source activate MyEnv`.
 
 ![img3](images/img3.png)
 
