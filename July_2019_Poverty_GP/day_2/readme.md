@@ -10,6 +10,10 @@ Today we'll consolidate data types, control flows and functions - mainly through
 
 2_numpy_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_2/2_numpy_pandas.ipynb)
 
+3_:
+
+4_seaborn: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_2/4_seaborn.ipynb)
+
 ### Lab notebooks:
 
 Lab 1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_2/lab_1.ipynb)
