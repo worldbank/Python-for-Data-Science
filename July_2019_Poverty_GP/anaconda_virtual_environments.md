@@ -51,3 +51,5 @@ You can now import and use the packages from your kernel. Notice the Seaborn pac
 `import seaborn as sns`
 
 ![img6](images/img6.png)
+
+[Click here](https://packaging.python.org/tutorials/installing-packages/) for further details on installing packages.
