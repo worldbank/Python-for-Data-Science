@@ -1,4 +1,6 @@
-# Setting up Virtual Environments in Anaconda
+# Why You Need Python Environments and How To Manage Them [click here](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/)
+
+## Setting up Virtual Environments in Anaconda
 
 ### Step 1: Open a Terminal
 On Windows, choose  Anaconda Prompt or Command Prompt from the start menu. On Mac select Terminal. You can also call up a terminal in Jupyter Notebooks by choosing 'New' and 'Terminal'.
