@@ -1,10 +1,12 @@
 
 # Python for Data Science
-# Day 1 - Python fundamentals
+# Day 2 - Data Analysis with Python
 ### Overview
-Today we'll introduce Python starting from the basics. We will start with declaring variables and handling text and numeric data, then go on to loops and conditionals. Sessions 2 and 3 will build up more sophisticated programs using logic, functions, and data containers like lists and dictionaries.
+Today we'll consolidate data types, control flows and functions - mainly through exercises. Then we'll introduce numerical computing with Numpy and data analysis with Pandas.
 
 ### Lecture notebooks:
+
+1_quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_2/1_quiz.ipynb)
 
 2_numpy_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_2/2_numpy_pandas.ipynb)
 
