@@ -18,10 +18,11 @@ Today we'll introduce Python starting from the basics. We will start with declar
 
 Lab 1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/lab_1.ipynb)
 
+Lab 1 Solution: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/lab_1_solutions.ipynb)
+
 Lab 2: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/lab_2.ipynb)
 
-Lab 3: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/lab_3.ipynb)
-
+Lab 2 Solution: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_1/lab_2_solutions.ipynb)
 
 ### Resources
 * early chapters of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
