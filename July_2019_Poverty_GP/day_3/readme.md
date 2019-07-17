@@ -8,6 +8,8 @@ Today we'll cover geospatial methods, further Pandas, pulling web data from APIs
 
 1_geospatial: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_3/1_geospatial.ipynb)
 
+2_APIs: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_3/2_APIs.ipynb)
+
 ### Lab notebooks:
 
 Lab 1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_3/lab_1.ipynb)
