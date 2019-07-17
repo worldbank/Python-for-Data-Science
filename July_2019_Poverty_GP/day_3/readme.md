@@ -10,11 +10,16 @@ Today we'll cover geospatial methods, further Pandas, pulling web data from APIs
 
 2_APIs: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_3/2_APIs.ipynb)
 
+3_machine_learning: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_3/3_machine_learning.ipynb)
+
 ### Lab notebooks:
+
+Lab 0 (recap): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_3/lab_0_recap.ipynb)
 
 Lab 1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_3/lab_1.ipynb)
 
 
 ### Resources
-* early chapters of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
-* short tutorial on [markdown](https://commonmark.org/help/).
+* Python geospatial [guide](https://automating-gis-processes.github.io/2018/notebooks/L2/geopandas-basics.html)
+* Nick's tutorials on [geospatial data](https://towardsdatascience.com/building-support-for-pollution-free-cities-an-open-data-workflow-888096797cc9) and [network analysis](https://towardsdatascience.com/measuring-pedestrian-accessibility-97900f9e4d56)
+early chapters of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
