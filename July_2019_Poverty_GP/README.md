@@ -26,9 +26,9 @@ Two methods:
 |9.00am–12.30pm| Data cleaning, analysis and visualization with Numpy and Pandas. |
 |12.30pm–2.00pm| Lunch break. |
 |2.00pm–5.00pm| Further Pandas (incl. time series, regression). Plotting with Seaborn. Lab session. |
-|5.00pm–5.30pm| GitHub and virtual environments |
+|5.00pm–5.30pm| Setting up virtual environments |
 |**Day 3**|
-|9.00am–12.30pm| Geospatial data, working with APIs. |
+|9.00am–12.30pm| Geospatial data, GitHub, Working with APIs. |
 |12.30pm–2.00pm| Lunch break |
 |2.00 pm–5.00pm| Machine learning with SciKitLearn. Lab session. |
 |**Day 4** |
