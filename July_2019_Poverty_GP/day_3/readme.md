@@ -21,5 +21,6 @@ Lab 1: [click here](https://colab.research.google.com/github/worldbank/Python-fo
 
 ### Resources
 * Python geospatial [guide](https://automating-gis-processes.github.io/2018/notebooks/L2/geopandas-basics.html)
+* Shapely [documentation](https://shapely.readthedocs.io/en/latest/)
 * Nick's tutorials on [geospatial data](https://towardsdatascience.com/building-support-for-pollution-free-cities-an-open-data-workflow-888096797cc9) and [network analysis](https://towardsdatascience.com/measuring-pedestrian-accessibility-97900f9e4d56)
 early chapters of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
