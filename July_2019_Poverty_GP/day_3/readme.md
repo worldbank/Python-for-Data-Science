@@ -1,6 +1,6 @@
 
 # Python for Data Science
-# Day 2 - Data Analysis with Python
+# Day 3 - Geospatial, APIs, machine learning
 ### Overview
 Today we'll cover geospatial methods, further Pandas, pulling web data from APIs, and an intro to machine learning with SciKitLearn.
 
