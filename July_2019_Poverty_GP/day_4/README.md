@@ -9,7 +9,7 @@ Next, Patrick van Kessel (Pew Research Center) will lead the session on Intro to
 
 #### Note: 
 Ownership of the CDR sample data (cdr.csv and locations.csv) lies with Flowminder. 
-Please contact Flowminder/ Tracey @ tracey.li@flowminder.org for permission to use this data outside of this training. 
+Please contact Flowminder/Tracey Li at tracey.li@flowminder.org for permission to use this data outside of this training. 
 
 ### Lecture Notebooks
 1_cdr: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_4/1_cdr.ipynb)
