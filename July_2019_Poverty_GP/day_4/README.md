@@ -12,4 +12,4 @@ Please contact Flowminder/ Tracey @ tracey.li@flowminder.org for permission to u
  
 1_cdr: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_4/1_cdr.ipynb)
 
-2_APIs: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_4/2_text_analytics.ipynb)
+2_text_analytics: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_4/2_text_analytics.ipynb)
