@@ -12,6 +12,6 @@ Ownership of the toy CDR sample data (cdr.csv and locations.csv) and CDR analysi
 Please contact Flowminder/Tracey Li at tracey.li@flowminder.org for permission to use this data outside of this training. 
 
 ### Lecture Notebooks
-1_cdr: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_4/1_cdr_analytics.ipynb)
+1_cdr_analysis: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_4/1_cdr_analysis.ipynb)
 
 2_text_analytics: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_4/2_text_analytics.ipynb)
