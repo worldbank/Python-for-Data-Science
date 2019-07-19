@@ -1,8 +1,9 @@
-# Why You Need Python Environments and How To Manage Them 
-## [click here for version with screenshots](https://github.com/worldbank/Python-for-Data-Science/blob/master/anaconda_virtual_environments.md) 
+## Why You Need Python Environments and How To Manage Them 
 [Recommended Reading](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/)
 
 ## Setting up Virtual Environments in Anaconda
+
+### [click here for setup instructions with screenshots](https://github.com/worldbank/Python-for-Data-Science/blob/master/anaconda_virtual_environments.md) 
 
 ### Step 1: Open a Terminal
 On Windows, choose  Anaconda Prompt or Command Prompt from the start menu. On Mac select Terminal. You can also call up a terminal in Jupyter Notebooks by choosing 'New' and 'Terminal'.
