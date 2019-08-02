@@ -18,7 +18,11 @@ Today we'll consolidate data types, control flows and functions - mainly through
 
 Lab 1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_2/lab_1.ipynb)
 
+Lab 1 solutions: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_2/lab_1_solutions.ipynb)
+
 Lab 2: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_2/lab_2.ipynb)
+
+Lab 2: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_2/lab_2_solutions.ipynb)
 
 ### Resources
 * early chapters of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
