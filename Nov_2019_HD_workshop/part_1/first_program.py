@@ -12,7 +12,7 @@ print('My name is ', name)
 # a loop:
 for day in days:
     print()
-    print("Plan for", day, ": ")
+    print("Plan for ", day, ": ")
     print("Have breakfast")
-    print("Write Python code for", hours, "hours.")
+    print("Write Python code for ", hours, "hours.")
     print(hobby)
