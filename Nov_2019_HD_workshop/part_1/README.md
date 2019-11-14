@@ -8,11 +8,10 @@ Today we'll introduce Python starting from the basics. We will start with declar
 
 0_notebooks_intro: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/part_1/0_notebooks_intro.ipynb)
 
-1_Python_essentials: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master//Nov_2019_HD_workshop/part_1/1_python_intro.ipynb)
+1_Python_essentials_Part1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master//Nov_2019_HD_workshop/part_1/1_python_intro1.ipynb)
 
-2_data_structures: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/part_1/2_data_structures.ipynb)
+1_Python_essentials_Part2: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master//Nov_2019_HD_workshop/part_1/2_python_intro2.ipynb)
 
-3_functions: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/part_1/3_functions.ipynb)
 
 ### Lab notebooks:
 
