@@ -6,11 +6,16 @@ Today we'll cover geospatial methods, further Pandas, pulling web data from APIs
 
 ### Lecture notebooks:
 
-1_geospatial: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_3/1_geospatial.ipynb)
+0_quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_api_geo_ml/0_quiz.ipynb) 
 
-2_APIs: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_3/2_APIs.ipynb)
+1_geospatial: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_api_geo_ml/1_geospatial.ipynb)
 
-3_machine_learning: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_3/3_machine_learning.ipynb)
+2_APIs: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_api_geo_ml/2_APIs.ipynb)
+
+3_machine_learning: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_api_geo_ml/3_machine_learning.ipynb)
+
+4_seaborn: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_api_geo_ml/4_seaborn.ipynb)
+
 
 ### Lab notebooks:
 
