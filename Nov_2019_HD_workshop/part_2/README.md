@@ -7,10 +7,7 @@ This section will focus on data analysis with Pandas.
 ### Lecture notebooks:
 
 
-pandas_1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/part_2/1_pandas_welsh.ipynb)
-
-pandas_2: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/part_2/3_further_pandas_nyc_buildings.ipynb)
-
+1_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/part_2/1_pandas.ipynb)
 
 ### Lab notebooks:
 
