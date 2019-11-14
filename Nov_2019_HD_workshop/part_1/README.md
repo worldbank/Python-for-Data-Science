@@ -17,6 +17,8 @@ Today we'll introduce Python starting from the basics. We will start with declar
 
 Lab 1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/part_1/lab_1.ipynb)
 
+Lab 1 Solutions: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/part_1/lab_1_solution_hd.ipynb)
+
 ### Resources
 * early chapters of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 * short tutorial on [markdown](https://commonmark.org/help/).
