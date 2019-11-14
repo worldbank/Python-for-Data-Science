@@ -1,6 +1,6 @@
 
 # Python for Data Science
-# Day 3 - Geospatial, APIs, machine learning, visualizations with seaborn
+# Additional Materials including Geospatial, APIs, machine learning, visualizations with seaborn
 ### Overview
 This section covers Geospatial methods, further Pandas, pulling web data from APIs, an intro to machine learning with SciKitLearn, and visualization using the seaborn library.
 
