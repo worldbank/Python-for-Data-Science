@@ -6,13 +6,11 @@ Today we'll consolidate data types, control flows and functions - mainly through
 
 ### Lecture notebooks:
 
-1_quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/part_2/1_quiz.ipynb)
 
 2_numpy_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/part_2/2_numpy_pandas.ipynb)
 
 3_further_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/part_2/3_further_pandas_updated.ipynb)
 
-4_seaborn: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/part_2/4_seaborn.ipynb)
 
 ### Lab notebooks:
 
