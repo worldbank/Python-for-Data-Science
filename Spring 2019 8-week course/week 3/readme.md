@@ -6,7 +6,7 @@ We'll use functions to write reusable code blocks, and introduce the Python data
 
 ### In class:
 1. Open the [Functions demo notebook](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%203/Week%203%20Demo%20-%20Functions.ipynb) in Colab.
-2. Open the [Pandas demo notebook](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%203/Week%203%20Demo%20-%20Pandas.ipynb) in Colab.
+2. Open the [Pandas demo notebook](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Spring%202019%208-week%20course/week%203/Week%203%20Demo%20-%20Pandas.ipynb) in Colab.
 
 ### Lab.
 * Open the [lab notebook](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/week%203/Week%203%20-%20Lab.ipynb) in Colab.
