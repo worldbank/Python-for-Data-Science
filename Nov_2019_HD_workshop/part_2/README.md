@@ -1,6 +1,6 @@
 
 # Python for Data Science
-# Day 2 - Data Analysis with Python
+# Part 2 - Data Analysis with Python
 ### Overview
 This section will focus on data analysis with Pandas.
 

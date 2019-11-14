@@ -1,11 +1,19 @@
 
 # Python for Data Science
-# Day 3 - Geospatial, APIs, machine learning, visualizations with seaborn
+# Additional Materials including Geospatial, APIs, machine learning, visualizations with seaborn
 ### Overview
 This section covers Geospatial methods, further Pandas, pulling web data from APIs, an intro to machine learning with SciKitLearn, and visualization using the seaborn library.
 
-### Lecture notebooks:
+### Bonus Notebooks:
+0_quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_apis_geo_ml/0_quiz.ipynb)
 
+0a_data_structures_bonus: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_apis_geo_ml/0a_data_structures_bonus.ipynb)
+
+0b_dictionaries_and_functions: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_apis_geo_ml/0b_dictionaries_and_functions.ipynb)
+
+0c_numpy__viz_and_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_apis_geo_ml/0c_numpy__viz_and_pandas.ipynb)
+
+0d_seaborn: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_apis_geo_ml/0d_seaborn.ipynb)
 
 1_geospatial: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_apis_geo_ml/1_geospatial.ipynb)
 
@@ -13,7 +21,6 @@ This section covers Geospatial methods, further Pandas, pulling web data from AP
 
 3_machine_learning: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_apis_geo_ml/3_machine_learning.ipynb)
 
-4_seaborn: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_apis_geo_ml/4_seaborn.ipynb)
 
 
 ### Lab notebooks:
