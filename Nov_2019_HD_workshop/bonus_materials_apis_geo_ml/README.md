@@ -6,7 +6,6 @@ Today we'll cover geospatial methods, further Pandas, pulling web data from APIs
 
 ### Lecture notebooks:
 
-0_quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_api_geo_ml/0_quiz.ipynb) 
 
 1_geospatial: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_api_geo_ml/1_geospatial.ipynb)
 
@@ -18,6 +17,8 @@ Today we'll cover geospatial methods, further Pandas, pulling web data from APIs
 
 
 ### Lab notebooks:
+
+0_quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/Nov_2019_HD_workshop/bonus_materials_api_geo_ml/0_quiz.ipynb) 
 
 Lab 0 (recap): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/July_2019_Poverty_GP/day_3/lab_0_recap.ipynb)
 
