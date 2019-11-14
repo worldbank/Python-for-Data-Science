@@ -3,11 +3,7 @@
 # Overview
 This course is for World Bank Human Development staff who need data science methods for their analytical or operational work. The instructors are Nick Jones (GFDRR Labs) and Dharana Rijal (DECAT).
 
-__Objectives__: (i) expand the cohort of Bank staff with intermediate-level Python skills; (ii) contribute to quality of WB operations and analysis through increased uptake of data science methods; and (iii) expand the internal user base for World Bank APIs and code libraries.
-
-__Prerequisites and format__: No prior coding experience is needed. The sessions will comprise of a combination of short lecture-style teaching by the instructors and 'lab' sessions where participants write code on their own laptops.
-
-__Participant outcomes__: With no coding knowledge before the course, participants should be able to access and combine a diverse set of datasets, conduct data exploration and visualization, utilize Python libraries for geospatial data and machine learning, and be able to self-teach next steps in their specialized domain.
+__Prerequisites and format__: No prior coding experience is needed. The workshop will comprise a combination of teaching and 'lab' sessions where participants write code on their own laptops.
 
 # Running the scripts
 Two methods:
@@ -18,19 +14,8 @@ Two methods:
 
 |**Time**| **Topic** |
 |:---|:----|
-|**Day 1**|
-|9.00am–12.30pm| Python basics: basic syntax, data structures, loops and conditionals. Lab session. |
-|12.30pm–2.00pm| Lunch break |
-|2.00pm– 5.00pm| Data structures II, control flow, functions. Numerical data w/ Numpy & Pandas. Lab session.|
-|**Day 2**|
-|9.00am–12.30pm| Data cleaning, analysis and visualization with Numpy and Pandas. |
-|12.30pm–2.00pm| Lunch break. |
-|2.00pm–5.00pm| Further Pandas (incl. time series, regression). Plotting with Seaborn. Lab session. |
-|5.00pm–5.30pm| Setting up virtual environments |
-|**Day 3**|
-|9.00am–12.30pm| Geospatial data, GitHub, Working with APIs. |
-|12.30pm–2.00pm| Lunch break |
-|2.00 pm–5.00pm| Machine learning with SciKitLearn. Lab session. |
-|**Day 4** |
-|9.00am–11.00am| Intro to Call Detail Records (CDR) |
-|11.00am–12.30pm| Intro to Text Analytics |
+|11.00am–12.30pm| Why Python? Intro to notebooks. Python basics. |
+|12.30pm–1.30pm| Lunch break |
+|1.30pm– 3.00pm| Python basics continued: syntax, data structures, loops and conditionals. Lab session. |
+|3.00pm– 3.20pm| Caffeine. |
+|3.20pm– 5.00pm| Data structures II, data analysis with Pandas, preview of geospatial/ML libraries. Lab session.|
