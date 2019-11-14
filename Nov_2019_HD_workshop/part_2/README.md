@@ -2,7 +2,7 @@
 # Python for Data Science
 # Day 2 - Data Analysis with Python
 ### Overview
-Today we'll consolidate data types, control flows and functions - mainly through exercises. Then we'll introduce numerical computing with Numpy and data analysis with Pandas.
+This section will focus on data analysis with Pandas.
 
 ### Lecture notebooks:
 
