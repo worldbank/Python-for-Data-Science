@@ -1,19 +1,21 @@
-# Python_for_Data_Science: ETEC June 2021 course
+# Python-for-Data-Science: ETEC June 2021 course
 
 # Overview
-This training will introduce participants to Python, the most widely-used programming language for data science. In the course of the three-day training, we will cover a number of topics through a combination of lectures and hands-on exercises. The instructors are Nick Jones (GFDRR Labs) and Dharana Rijal (DECAT).
+This training will introduce participants to Python, the most widely-used programming language for data science. In the course of the three-day training, we will cover a number of topics through a combination of lectures and hands-on exercises on Google Colab. 
+
+The course starts with programming essentials in Python: basic syntax, handling different types of data (strings, numerical), and utilizing structures such as loops and conditionals. Participants will follow along using example notebooks, and write their own code during break-out sessions.
+
+We will introduce essential libraries for data manipulation in Python, including Pandas (the widely used tool to manipulate data tables) and Matplotlib (for plotting graphs and charts). The course will also include a brief introduction to geospatial data (eg. representing data on maps) and machine learning. The instructors are Nick Jones (GFDRR Labs) and Dharana Rijal (DECAT).
 
 __Objectives__: (i) improve the Python skills of ETEC staff; (ii) enable participants to load, clean and analyze datasets (including prepare data for visualization on dashboards).
+
+
+__Participant Profile__: This course is designed for ETEC staff with high computer literacy and familiarity with data analysis, but no prior knowledge of computer programming in Python.
 
 
 __Format__: Training sessions will comprise of: (i) interactive lecture sessions; (ii) lab sessions where participants write code on their own laptops. Materials are delivered via Google Colab (a cloud-based platform accessed through participants’ web browsers).
 
 __Participant outcomes__: With no coding knowledge before the course, participants should be able to access and combine a diverse set of datasets, conduct data exploration and visualization, utilize Python libraries for data analysis and machine learning, and be able to teach themselves next steps.
-
-# Running the scripts
-Two methods:
-* _Beginner method:_ Click the links to 'open notebook in Colab.' (need to log in to Google account; no software installation required)
-* _Preferred method:_ Install Anaconda Navigator in the folder C:\WBG from the software catalogue on eServices. Download the scripts (or clone the repository with Git) and load the notebooks (.ipynb files) in Jupyter Notebooks on your laptop.
 
 **Tentative Schedule**
 
