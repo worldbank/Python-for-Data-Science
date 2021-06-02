@@ -5,7 +5,7 @@ This training will introduce participants to Python, the most widely-used progra
 
 The course starts with programming essentials in Python: basic syntax, handling different types of data (strings, numerical), and utilizing structures such as loops and conditionals. Participants will follow along using example notebooks, and write their own code during break-out sessions.
 
-We will introduce essential libraries for data manipulation in Python, including Pandas (the widely used tool to manipulate data tables) and Matplotlib (for plotting graphs and charts). The course will also include a brief introduction to geospatial data (eg. representing data on maps) and machine learning. The instructors are Nick Jones (GFDRR Labs) and Dharana Rijal (DECAT).
+We will introduce essential libraries for data manipulation in Python, including Pandas (the widely used tool to manipulate data tables) and Matplotlib (for plotting graphs and charts). The course will also include a brief introduction to geospatial data (eg. representing data on maps) and machine learning. The instructors are Nick Jones, Dharana Rijal, Maham Khan and Gaurav Bhardwaj (World Bank).
 
 __Objectives__: (i) improve the Python skills of ETEC staff; (ii) enable participants to load, clean and analyze datasets (including prepare data for visualization on dashboards).
 
