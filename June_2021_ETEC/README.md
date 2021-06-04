@@ -12,7 +12,6 @@ __Objectives__: (i) improve the Python skills of ETEC staff; (ii) enable partici
 
 __Participant Profile__: This course is designed for ETEC staff with high computer literacy and familiarity with data analysis, but no prior knowledge of computer programming in Python.
 
-
 __Format__: Training sessions will comprise of: (i) interactive lecture sessions; (ii) lab sessions where participants write code on their own laptops. Materials are delivered via Google Colab (a cloud-based platform accessed through participants’ web browsers).
 
 __Participant outcomes__: With no coding knowledge before the course, participants should be able to access and combine a diverse set of datasets, conduct data exploration and visualization, utilize Python libraries for data analysis and machine learning, and be able to teach themselves next steps.
@@ -22,18 +21,20 @@ __Participant outcomes__: With no coding knowledge before the course, participan
 |**Time**| **Topic** |
 |:---|:----|
 |**Day 1**|
-|2.00pm – 3.15pm| Python from scratch: basic syntax, data structures, loops and conditionals. |
-|3.15pm – 4.15pm| Python from scratch: lab session. |
-|4.30pm – 5.30pm| Further data structures, control flow, file handling. |
-|Evening/Morning| Optional additional lab session (participants complete in their own time) |
+|2.00pm – 2.30pm| Welcome & intro to Python. |
+|2.30pm – 3.00pm| Break-out 1 : Introducing code notebooks (lab session)| 
+|3.00pm - 3.45pm| Python from scratch: basic syntax, data structures, loops and conditionals. |
+|4.00pm – 4.45pm| Break-out 2: Python from scratch (lab session).|
+|4.45pm – 5.30pm| Further data structures, control flow, file handling. |
+|Evening/Morning| Additional lab session (participants complete in their own time) |
 |**Day 2**|
-|2.00pm – 3.15pm| Lists and dictionaries. Intro to Pandas |
-|3.15pm – 4.15pm| Lab session: Intro to Pandas|
+|2.00pm – 3.15pm| Lists and dictionaries. Intro to Pandas (PISA example) |
+|3.15pm – 4.15pm| Break-out 3: Intro to Pandas (lab session)|
 |4.30pm – 5.30pm| Data wrangling in Pandas |
-|Evening/Morning| Optional lab session: data wrangling cases |
+|Evening/Morning| Additional lab session: data wrangling cases |
 |**Day 3**|
 |2.00pm – 3.15pm| Further Pandas and MatPlotLib: analysis, merge and join datasets, plotting |
-|3.15pm – 4.15pm| Lab session: Pandas and MatPlotLib |
+|3.15pm – 4.15pm| Break-out 4: Pandas and MatPlotLib (lab session)|
 |4.30pm – 5.30pm| Time permitting: Intro to geo data and Machine Learning (Geopandas, SciKitLearn) |
-|Evening/Morning| Optional additional final lab session: data analysis case study |
+|Evening/Morning| Additional lab session: data analysis case study |
 
