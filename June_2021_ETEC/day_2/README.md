@@ -4,10 +4,11 @@
 ### Overview
 Today we'll consolidate data types, control flows and functions - mainly through exercises. Then we'll introduce numerical computing with Numpy and data analysis with Pandas.
 
+<a href="http://example.com/" target="_blank">example</a>
+
 ### Lecture notebooks:
 
 1_quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/1_quiz.ipynb)
-<a href="http://example.com/" target="_blank">example</a>
 
 2_lists_and_dictionaries: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/)
 
