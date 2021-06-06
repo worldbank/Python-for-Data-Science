@@ -2,16 +2,16 @@
 print('Hello world!')
 
 # some variables:
-name = 'Alex'
+name = 'Guido'
 days = ['Monday','Tuesday','Wednesday']
 hours = 8
-hobby = "Walk the dog"
+hobby = "Play the ukulele"
 
+# a command
 print('My name is ', name)
 
 # a loop:
 for day in days:
-    print()
     print("Plan for", day, ": ")
     print("Have breakfast")
     print("Write Python code for", hours, "hours.")
