@@ -7,6 +7,7 @@ Today we'll consolidate data types, control flows and functions - mainly through
 ### Lecture notebooks:
 
 1_quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/1_quiz.ipynb)
+<a href="http://example.com/" target="_blank">example</a>
 
 2_lists_and_dictionaries: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/)
 
