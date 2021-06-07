@@ -33,8 +33,9 @@ __Participant outcomes__: With no coding knowledge before the course, participan
 |4.30pm – 5.30pm| Data wrangling in Pandas |
 |Evening/Morning| Additional lab session: data wrangling cases |
 |**Day 3**|
-|2.00pm – 3.15pm| Further Pandas and MatPlotLib: analysis, merge and join datasets, plotting |
+|2.00pm – 2.20pm| Installing Python on  your computer: the Anaconda distribution |
+|2.20pm – 3.15pm| Further Pandas and MatPlotLib: analysis, merge and join datasets, plotting |
 |3.15pm – 4.15pm| Break-out 4: Pandas and MatPlotLib (lab session)|
 |4.30pm – 5.30pm| Time permitting: Intro to geo data and Machine Learning (Geopandas, SciKitLearn) |
-|Evening/Morning| Additional lab session: data analysis case study |
+|Evening/Morning| Additional lab session: data analysis |
 
