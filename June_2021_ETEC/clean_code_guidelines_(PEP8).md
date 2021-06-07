@@ -16,13 +16,18 @@ Learn the conventional shortened names for common libraries (eg. import pandas a
 
 __YES:__
 
+```
 import sys
 
 import os
 
+```
 __NO__: 
 
+```
 import sys, os
+
+```
 
 ### 3. Declaring strings
 
@@ -30,15 +35,18 @@ Python lets you use single quotes or double quotes around strings; pick one opti
 
 __YES:__
 
+```
 string1 = 'I love Python'
 
 string2 = 'not R'
+```
 
 __NO__:
-
+```
 string1 = "I love Python"
 
 string2 = 'not R'
+```
 
 ### 4. Whitespace
 
@@ -48,23 +56,28 @@ Be consistent and don't add redundant whitespace.
 
 __YES:__
 
+```
 a = b + c
 
 spam(ham[1], {eggs: 2})
 
+```
 __NO__:
 
+```
 a=b+c
 
 spam( ham[ 1 ], { eggs: 2 } )
+```
 
 ### 5. Comments
 
 Start comments with # and a single space.
 
 __YES:__
-
+```
 x = x + 1          # Increment x
+```
 
 #### 6. Naming
 
@@ -74,8 +87,11 @@ Use descriptive variable names.
 
 __YES:__
 
+```
 mean_trip_time = []
+```
 
 PROBABLY NOT:
-
+```
 mtt = []
+```
