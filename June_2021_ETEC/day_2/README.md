@@ -6,26 +6,23 @@ Today we'll consolidate data types, control flows and functions - mainly through
 
 ### Lecture notebooks:
 
-1_quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/1_quiz.ipynb)
+1_lists_and_dictionaries: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/1_dictionaries_numpy_pandas.ipynb)
 
-2_lists_and_dictionaries: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/)
+2_intro_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/2_intro_pandas.ipynb)
 
-3_intro_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/3_intro_pandas.ipynb)
-
-4_further_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/4_further_pandas.ipynb)
+3_further_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/3_further_pandas.ipynb)
 
 ### Lab notebooks:
-Lab 1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_1_pandas.ipynb)
 
-Lab 1 solutions: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2//lab_1_pandas_solutions.ipynb)
+Lab 1 and quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_1_and_quiz.ipynb)
 
-Lab 2: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_1.ipynb)
+Lab 2 - Pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_2.ipynb)
 
-Lab 2 solutions: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2//lab_1_solutions.ipynb)
+Lab 2 solutions: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2//lab_solutions.ipynb)
 
-Lab 3: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_2.ipynb)
+Lab 3: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_3.ipynb)
 
-Lab 3 solutions: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2//lab_2_solutions.ipynb)
+Lab 4: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_4.ipynb)
 
 ### Resources
 * early chapters of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
