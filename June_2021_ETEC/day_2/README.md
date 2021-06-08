@@ -10,8 +10,6 @@ Today we'll consolidate data types, control flows and functions - mainly through
 
 2_intro_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/2_intro_pandas.ipynb)
 
-3_further_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/3_further_pandas.ipynb)
-
 ### Lab notebooks:
 
 Lab 1 and quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_1_and_quiz.ipynb)
