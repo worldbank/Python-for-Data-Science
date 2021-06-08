@@ -16,9 +16,12 @@ Today we'll cover geospatial methods, further Pandas, pulling web data from APIs
 
 ### Lab notebooks:
 
-Lab 0 (recap): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab_0_recap.ipynb)
+Quiz (recap): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab_0_recap.ipynb)
+
+Lab 1 (further pandas): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab_further_pandas.ipynb)
 
 Lab 1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab_1.ipynb)
+
 
 
 ### Resources
