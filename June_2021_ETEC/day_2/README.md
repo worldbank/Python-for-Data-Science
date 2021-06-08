@@ -18,6 +18,8 @@ Lab 1 and quiz solutions: [click here](https://colab.research.google.com/github/
 
 Lab 2 (pandas): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_2.ipynb)
 
+Lab 2 (pandas): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_2_solutions.ipynb)
+
 Lab 3 (additional python fundamentals) : [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_3.ipynb)
 
 Lab 4 (additional pandas practice) : [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_4.ipynb)
