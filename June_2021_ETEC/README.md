@@ -28,10 +28,12 @@ __Participant outcomes__: With no coding knowledge before the course, participan
 |4.45pm – 5.30pm| Further data structures, control flow, file handling. |
 |Evening/Morning| Additional lab session (participants complete in their own time) |
 |**Day 2**|
-|2.00pm – 3.15pm| Lists and dictionaries. Intro to Pandas (PISA example) |
-|3.15pm – 4.15pm| Break-out 3: Intro to Pandas (lab session)|
-|4.30pm – 5.30pm| Data wrangling in Pandas |
-|Evening/Morning| Additional lab session: data wrangling cases |
+|2.00pm – 2.15pm| Presentation: Day 1 recap|
+|2.15pm – 3.00pm| Break-out: Quiz and Lab 1|
+|3.00pm – 3.30pm| Lecture: Python fundamentals 2; Numpy and Pandas |
+|3.45pm – 4.30pm| Lecture: Intro to Pandas (education outcomes dataset)|
+|4.30pm – 5.30pm| Break-out: Lab 2: data analysis with Pandas (education outcomes continued) |
+|Evening/Morning| Additional lab session: Lab 3 (python fundamentals) and Lab 4 (further pandas practice) |
 |**Day 3**|
 |2.00pm – 2.20pm| Installing Python on  your computer: the Anaconda distribution |
 |2.20pm – 3.15pm| Further Pandas and MatPlotLib: analysis, merge and join datasets, plotting |
