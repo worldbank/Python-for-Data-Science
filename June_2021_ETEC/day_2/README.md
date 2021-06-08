@@ -14,6 +14,8 @@ Today we'll consolidate data types, control flows and functions - mainly through
 
 Lab 1 and quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_1_and_quiz.ipynb)
 
+Lab 1 and quiz solutions: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_1_and_quiz_solutions.ipynb)
+
 Lab 2 (pandas): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_2.ipynb)
 
 Lab 3 (additional python fundamentals) : [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_3.ipynb)
