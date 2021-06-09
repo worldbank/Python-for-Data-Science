@@ -10,7 +10,7 @@ further_pandas: [click here](https://colab.research.google.com/github/worldbank/
 
 ### Lab notebooks:
 
-Lab 5 and quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab 5 and quiz.ipynb)
+Lab 5 and quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab_5_and_quiz.ipynb)
 
 Lab 6 (further pandas): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab_further_pandas.ipynb)
 
