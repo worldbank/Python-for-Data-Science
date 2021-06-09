@@ -7,6 +7,7 @@ Today we'll cover further Pandas and a brief intro to geo data and machine learn
 ### Lecture notebooks:
 
 further_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/1_further_pandas.ipynb)
+geo_and_ML_intro: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/ML_intro.ipynb)
 
 ### Lab notebooks:
 
