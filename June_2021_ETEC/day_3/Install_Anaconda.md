@@ -25,7 +25,7 @@ Now click on the Environments tab on the left of the application. Now click on "
 
 ### STEP 5:
 
-On the window that pops up, enter the name for virtual environment. (example here uses venv1) and click OK.
+On the window that pops up, enter the name for virtual environment. (example here uses venv1) and click on Create.
 
 ![image](images/venv1.png)
 
@@ -37,13 +37,13 @@ Once the virtual environment is created, click on the green triangle (like a pla
 
 ### STEP 7:
 
-On terminal window, type "pip install pandas" and click Enter. This will start installation process for pandas package.
+On terminal window, type "pip install pandas" and hit Enter. This will start installation process for pandas package.
 
 ![image](images/pip_install.png)
 
 ### STEP 8:
 
-Now for the final installation, click on Home on the left panel, click on Home. On this page, find "Jupyter Notebook" application and click on "Install" right below it.
+Now for the final installation, on the left panel, click on Home. On this page, find "Jupyter Notebook" application and click on "Install" right below it.
 
 ![image](images/jupyetr_install.png)
 
