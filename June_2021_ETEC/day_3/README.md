@@ -1,31 +1,19 @@
 
 # Python for Data Science
-# Day 3 - Geospatial, APIs, machine learning
+# Day 3 - Further Pandas, intro to geo data and ML
 ### Overview
-Today we'll cover geospatial methods, further Pandas, pulling web data from APIs, and an intro to machine learning with SciKitLearn.
+Today we'll cover further Pandas and a brief intro to geo data and machine learning.
 
 ### Lecture notebooks:
 
-1_further_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/1_further_pandas.ipynb)
-
-2_geospatial: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/2_geospatial.ipynb)
-
-3_APIs: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/3_APIs.ipynb)
-
-4_machine_learning: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/4_machine_learning.ipynb)
+further_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/1_further_pandas.ipynb)
 
 ### Lab notebooks:
 
-Quiz (recap): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab_0_recap.ipynb)
+Lab 5 and quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab_5_and_quiz.ipynb)
 
-Lab 1 (further pandas): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab_further_pandas.ipynb)
-
-Lab 1: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab_1.ipynb)
-
-
+Lab 6 (further pandas): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab_further_pandas.ipynb)
 
 ### Resources
 * Python geospatial [guide](https://autogis-site.readthedocs.io/en/stable/index.html)
-* Shapely [documentation](https://shapely.readthedocs.io/en/latest/)
-* Nick's tutorials on [geospatial data](https://towardsdatascience.com/building-support-for-pollution-free-cities-an-open-data-workflow-888096797cc9) and [network analysis](https://towardsdatascience.com/measuring-pedestrian-accessibility-97900f9e4d56)
-early chapters of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
+* early chapters of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
