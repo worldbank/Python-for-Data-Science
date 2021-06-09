@@ -10,9 +10,9 @@ further_pandas: [click here](https://colab.research.google.com/github/worldbank/
 
 ### Lab notebooks:
 
-Lab 5 and quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab_5_and_quiz.ipynb)
+Lab 1 and quiz: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/Day_3_Lab_1_and_quiz.ipynb)
 
-Lab 6 (further pandas): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/lab_further_pandas.ipynb)
+Lab 2 (further pandas): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/Day_3_Lab_2_further_pandas.ipynb)
 
 ### Resources
 * Python geospatial [guide](https://autogis-site.readthedocs.io/en/stable/index.html)
