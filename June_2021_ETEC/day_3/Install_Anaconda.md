@@ -43,7 +43,7 @@ On terminal window, type "pip install pandas" and hit Enter. This will start ins
 
 ### STEP 8:
 
-Now for the final installation, click on Home on the left panel, click on Home. On this page, find "Jupyter Notebook" application and click on "Install" right below it.
+Now for the final installation, on the left panel, click on Home. On this page, find "Jupyter Notebook" application and click on "Install" right below it.
 
 ![image](images/jupyetr_install.png)
 
