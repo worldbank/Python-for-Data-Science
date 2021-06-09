@@ -22,7 +22,11 @@ Lab 2 solutions (pandas): [click here](https://colab.research.google.com/github/
 
 Lab 3 (additional python fundamentals) : [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_3.ipynb)
 
+Lab 3 solutions (additional python fundamentals) : [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab3_solutions.ipynb)
+
 Lab 4 (additional pandas practice) : [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab_4.ipynb)
+
+Lab 4 solutions(additional pandas practice) : [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_2/lab4_solutions.ipynb)
 
 ### Resources
 * early chapters of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
