@@ -35,9 +35,10 @@ __Participant outcomes__: With no coding knowledge before the course, participan
 |4.30pm – 5.30pm| Break-out: Lab 2: data analysis with Pandas (education outcomes continued) |
 |Evening/Morning| Additional lab session: Lab 3 (python fundamentals) and Lab 4 (further pandas practice) |
 |**Day 3**|
-|2.00pm – 2.20pm| Installing Python on  your computer: the Anaconda distribution |
-|2.20pm – 3.15pm| Further Pandas and MatPlotLib: analysis, merge and join datasets, plotting |
-|3.15pm – 4.15pm| Break-out 4: Pandas and MatPlotLib (lab session)|
+|2.00pm – 2.20pm| Day 2 recap; Installing Python on  your computer: the Anaconda distribution |
+|2.00pm – 3.00pm| Break-out: Quiz and Lab 1 |
+|2.20pm – 3.15pm| Further Pandas and MatPlotLib: data wrangling, merge datasets, plotting |
+|3.15pm – 4.15pm| Break-out: Lab 2: Further pandas |
 |4.30pm – 5.30pm| Time permitting: Intro to geo data and Machine Learning (Geopandas, SciKitLearn) |
-|Evening/Morning| Additional lab session: data analysis |
+|Evening/Morning| Additional lab (optional) |
 
