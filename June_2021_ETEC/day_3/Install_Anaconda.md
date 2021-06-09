@@ -25,7 +25,7 @@ Now click on the Environments tab on the left of the application. Now click on "
 
 ### STEP 5:
 
-On the window that pops up, enter the name for virtual environment. (example here uses venv1) and click OK.
+On the window that pops up, enter the name for virtual environment. (example here uses venv1) and click on Create.
 
 ![image](images/venv1.png)
 
@@ -37,7 +37,7 @@ Once the virtual environment is created, click on the green triangle (like a pla
 
 ### STEP 7:
 
-On terminal window, type "pip install pandas" and click Enter. This will start installation process for pandas package.
+On terminal window, type "pip install pandas" and hit Enter. This will start installation process for pandas package.
 
 ![image](images/pip_install.png)
 
