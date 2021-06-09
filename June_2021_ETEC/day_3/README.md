@@ -18,6 +18,8 @@ Lab 1 and quiz solutions : [click here](https://colab.research.google.com/github
 
 Lab 2 (further pandas): [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/Day_3_Lab_2_further_pandas.ipynb)
 
+Lab 2 (further pandas) solutions: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/Day3_Lab_2_further_pandas_solutions.ipynb)
+
 ### Resources
 * Python geospatial [guide](https://autogis-site.readthedocs.io/en/stable/index.html)
 * early chapters of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
