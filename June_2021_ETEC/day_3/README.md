@@ -1,12 +1,12 @@
 
 # Python for Data Science
-# Day 3 - Geospatial, APIs, machine learning
+# Day 3 - Further Pandas, intro to geo data and ML
 ### Overview
-Today we'll cover geospatial methods, further Pandas, pulling web data from APIs, and an intro to machine learning with SciKitLearn.
+Today we'll cover further Pandas and a brief intro to geo data and machine learning.
 
 ### Lecture notebooks:
 
-1_further_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/1_further_pandas.ipynb)
+further_pandas: [click here](https://colab.research.google.com/github/worldbank/Python-for-Data-Science/blob/master/June_2021_ETEC/day_3/1_further_pandas.ipynb)
 
 ### Lab notebooks:
 
